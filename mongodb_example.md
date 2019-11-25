@@ -77,7 +77,7 @@ see <http://callbackhell.com/>
 
 Additionally, sometimes your callback is passed  *yet another callback function* which you **must** call when your code is finished.  
 
-![yo dawg callbacks](/images/yo-dawg-callbacks.png)
+![yo dawg callbacks](https://res.cloudinary.com/btvca/image/upload/v1574445215/curriculum/yo-dawg-callbacks_i2g7rm.png)
 
 >...Fortunately, the MongoDB Node.JS driver supports promises, so we can use async/await instead.
 
